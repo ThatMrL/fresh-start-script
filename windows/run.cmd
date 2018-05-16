@@ -7,6 +7,7 @@ choco install everything -y
 choco install firefox -y
 choco install geekuninstaller -y
 choco install libreoffice -y
+choco install rufus -y
 choco install shadowsocks -y
 choco install sumatrapdf -y
 choco install wox -y
@@ -15,5 +16,8 @@ rem Development
 choco install androidstudio -y
 choco install autohotkey -y
 choco install git -y
+choco install postman -y
+choco install pycharm-community -y
+choco install python -y
 choco install sublimetext3 -y
 choco install zeal -y
