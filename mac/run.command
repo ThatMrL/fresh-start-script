@@ -6,6 +6,7 @@ brew tap caskroom/cask
 brew cask install shadowsocksx-ng
 
 # Development
+brew install pandoc
 brew cask install android-studio
 brew cask install dash
 brew cask install karabiner-elements
