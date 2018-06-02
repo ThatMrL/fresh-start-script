@@ -4,11 +4,15 @@ rem Install the package manager
 rem Essential
 choco install 7zip -y
 choco install everything -y
+choco install f.lux -y
+choco install filetypesman -y
 choco install firefox -y
 choco install geekuninstaller -y
 choco install libreoffice -y
+choco install mactype -y
 choco install rufus -y
 choco install shadowsocks -y
+choco install spacesniffer -y
 choco install sumatrapdf -y
 choco install wox -y
 
@@ -16,6 +20,8 @@ rem Development
 choco install androidstudio -y
 choco install autohotkey -y
 choco install git -y
+choco install nodejs -y
+choco install notepadplusplus -y
 choco install postman -y
 choco install pycharm-community -y
 choco install python -y
