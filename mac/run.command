@@ -10,5 +10,6 @@ brew install pandoc
 brew cask install android-studio
 brew cask install cord
 brew cask install dash
+brew cask install imageoptim
 brew cask install karabiner-elements
 brew cask install sublime-text
