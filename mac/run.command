@@ -1,5 +1,7 @@
 # Install the package manager
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap homebrew/cask-fonts
+brew tap homebrew/command-not-found
 brew install mas
 
 # Essential
